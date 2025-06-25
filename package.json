@@ -1,12 +1,12 @@
 {
-  "name": "jarvis-ai",
+  "name": "jarvis-ai-app",
   "version": "1.0.0",
   "description": "Jarvis AI project",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "build": "echo 'No build step defined'",
-    "test": "echo 'No tests specified'"
+    "build": "echo \"No build script defined\"",
+    "test": "echo \"No test specified\""
   },
   "author": "Mr46nobody",
   "license": "MIT",
