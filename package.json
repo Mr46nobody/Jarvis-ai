@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "build": "echo \"Build command not yet configured\""
+    "build": "echo \"Build command not yet configured\"",
+    "test": "echo \"No test specified\""
   },
   "keywords": ["AI", "Jarvis", "assistant"],
   "author": "MrNobody",
