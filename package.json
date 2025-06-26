@@ -1,15 +1,15 @@
- }
+{
   "name": "jarvis-ai",
   "version": "1.0.0",
-  "description": "Personal AI assistant - Jarvis",
+  "description": "Your project description here",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "build": "echo \"Build command not yet configured\"",
-    "test": "echo \"No test specified\""
+    "start": "node index.js"
   },
-  "keywords": ["AI", "Jarvis", "assistant"],
-  "author": "MrNobody",
+  "author": "Your Name",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    // Add dependencies here, for example:
+    // "express": "^4.18.2"
+  }
 }
