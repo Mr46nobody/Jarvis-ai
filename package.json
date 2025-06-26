@@ -1,14 +1,14 @@
 {
-  "name": "jarvis-ai-app",
+  "name": "jarvis-ai",
   "version": "1.0.0",
-  "description": "Jarvis AI project",
+  "description": "Personal AI assistant - Jarvis",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "build": "echo \"No build script defined\"",
-    "test": "echo \"No test specified\""
+    "build": "echo \"Build command not yet configured\""
   },
-  "author": "Mr46nobody",
+  "keywords": ["AI", "Jarvis", "assistant"],
+  "author": "MrNobody",
   "license": "MIT",
   "dependencies": {}
 }
